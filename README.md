@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rofif</h1>
-<h3 align="center">An information system and technology student who enjoyed work with dataset. Currently learning product development and deeper in data analytics.</h3>
+<h3 align="center">An information system and technology student who enjoyed work with dataset. Currently learning product development and deeper in data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fairofif&label=Profile%20views&color=0e75b6&style=flat" alt="fairofif" /> </p>
 
