@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fairofif&label=Profile%20views&color=0e75b6&style=flat" alt="fairofif" /> </p>
 
-- 🔭Currently studying at **Bandung Institute of Technology**
+- 🔭Currently studying at **Bandung Institute of Technology** major **IST**
 
 - 🌱 Currently learning **Mobile and Desktop App Development**
 
