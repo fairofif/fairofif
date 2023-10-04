@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rofif</h1>
-<h3 align="center">An information system and technology student who enjoyed work with barbeque snacks. Currently learning Mobile and Desktop App Development.</h3>
+<h3 align="center">An information system and technology student who enjoyed work with barbeque snacks. Currently learning Backend Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fairofif&label=Profile%20views&color=0e75b6&style=flat" alt="fairofif" /> </p>
 
 - 🔭Currently studying at **Bandung Institute of Technology** major **IST**
 
-- 🌱 Currently learning **Mobile and Desktop App Development**
+- 🌱 Currently learning **Backend Development**
 
 - 📫 How to reach me **rofifhawary@gmail.com**
 
